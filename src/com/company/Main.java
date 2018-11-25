@@ -14,7 +14,5 @@ public class Main {
         dog.attack(wizard);
         wizard.print();
         wizard.attack(dog);
-        dog.print();
-        darkWizard.print();
     }
 }
